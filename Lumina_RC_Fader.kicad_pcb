@@ -10,7 +10,7 @@
 	(title_block
 		(title "RCfader")
 		(date "2026-06-10")
-		(rev "vOCT 2026")
+		(rev "1.2")
 		(comment 4 "Author: Alexander Schmitz")
 	)
 	(layers
