@@ -12238,8 +12238,8 @@
 		(layer "User.1")
 		(uuid "e977dfe6-a337-4a46-9724-cfc2043a14c9")
 	)
-	(gr_text "Lumina RC Fader v1.2\nby droppi\n"
-		(at 146 158 0)
+	(gr_text "Lumina RC Fader v1.2\nCC BY-NC-SA 4.0\nby droppi\n"
+		(at 146 159 0)
 		(layer "B.Mask")
 		(uuid "4f40bdd3-60de-47af-b251-2bd2aa084d28")
 		(effects
