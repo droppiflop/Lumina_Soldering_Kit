@@ -501,7 +501,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers/",
+      "plot": "Exports/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
